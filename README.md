@@ -1,6 +1,6 @@
 # Shadow-Fox
 
-Visualization Library Documentation: Pandas & Seaborn
+# Visualization Library Documentation: Pandas & Seaborn
 
 This repository contains my submission for the Shadowfox Beginners Level Task, where I explore data visualization in Python using Pandas and Seaborn. The documentation highlights the core concepts, features, example implementations, and a comparative study of these two widely used libraries.
 
